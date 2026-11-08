@@ -1,0 +1,22 @@
+{
+    "dataset_name": "Australia Primary Enrollment and GDP per Capita, 2001-2020",
+    "country": "Australia",
+    "period": "2001-2020",
+    "columns": [
+        {
+            "column_name": "Year",
+            "data_type": "integer",
+            "meaning": "Calendar year of the observation."
+        },
+        {
+            "column_name": "Primary Enrollment",
+            "data_type": "float",
+            "meaning": "Number of pupils enrolled in primary education in Australia."
+        },
+        {
+            "column_name": "GDP",
+            "data_type": "float",
+            "meaning": "Australia GDP per capita in current U.S. dollars."
+        }
+    ]
+}
